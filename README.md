@@ -20,6 +20,25 @@
 | 5 | Vimoty Turnip | 21060125140137 | Soal A (Agregasi) |
 
 ---
+## 🖼️ Infografis Kelompok 1
+
+<p align="center">
+  <b>Visualisasi Data Kebahagiaan Dunia</b><br>
+  <i>Happiness and Satisfaction Dataset</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/omitaja/PostTest_PraktikumAlgoritmaPemrogramman_Kelompok_1_Kelas_D/blob/main/Infografis_PostTest_Praktikum_Algoritma_Pemrogramman.png">
+    <img src="Infografis_PostTest_Praktikum_Algoritma_Pemrogramman.png" alt="Infografis Analisis Data Happiness and Satisfaction" width="430">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/omitaja/PostTest_PraktikumAlgoritmaPemrogramman_Kelompok_1_Kelas_D/blob/main/Infografis_PostTest_Praktikum_Algoritma_Pemrogramman.png">
+    🔍 Klik untuk melihat infografis ukuran penuh
+  </a>
+</p>
+
 
 ## 📋 Pembagian Tugas Detail
 
