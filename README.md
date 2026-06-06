@@ -30,6 +30,14 @@ File Jupyter Notebook yang berisi proses pengolahan data, analisis, dan visualis
 
 ---
 
+## 📄 Dataset
+
+Dataset yang digunakan dalam proses analisis kebahagiaan dunia dapat diakses melalui tautan berikut:
+
+👉 [Klik di sini untuk melihat dataset](Kelas%20D_Happiness%20and%20Satisfaction.csv)
+
+---
+
 ## 🖼️ Infografis
 
 Infografis hasil analisis data kebahagiaan dunia dapat dilihat melalui tautan berikut:
@@ -177,7 +185,7 @@ Dokumen PDF slider yang memuat hasil analisis dan visualisasi data dapat diakses
 ```bash
 repository/
 ├── README.md
-├── dataset.csv
+├── Kelas D_Happiness and Satisfaction.csv
 ├── Kelompok_1_Kelas_D.ipynb
 ├── Infografis_PostTest_Praktikum_Algoritma_Pemrogramman.png
 └── Analisis Kebahagiaan Dunia Berdasarkan Kepuasan Hidup, GDP, dan Ketimpangan Pendapatan.pdf
@@ -200,6 +208,7 @@ import seaborn as sns
 | Ketentuan              | Detail                                                      |
 | ---------------------- | ----------------------------------------------------------- |
 | Format file utama      | `.ipynb` atau Jupyter Notebook                              |
+| Dataset                | File `.csv`                                                 |
 | Pendekatan visualisasi | `ax=axes[x, y]` atau *object-oriented approach*             |
 | Insight                | Setiap grafik disertai interpretasi atau insight            |
 | Standar visualisasi    | Grafik tidak ditampilkan mentah tanpa penjelasan analitis   |
