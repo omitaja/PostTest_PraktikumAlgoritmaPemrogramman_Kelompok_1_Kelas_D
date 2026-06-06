@@ -1,5 +1,5 @@
 # 📊 Post Test & Prajilid — Praktikum Algoritma Pemrograman 2026
-### Analisis dan Visualisasi Data Kebahagiaan Dunia menggunakan Python
+### Analisis dan Visualisasi Data Kebahagiaan Dunia berbasis Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Library-150458?logo=pandas&logoColor=white)
