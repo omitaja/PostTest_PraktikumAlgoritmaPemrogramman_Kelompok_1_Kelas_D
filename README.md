@@ -1,5 +1,5 @@
 # 📊 Post Test & Prajilid — Praktikum Algoritma Pemrograman 2026
-### Visualisasi Data Kebahagiaan Dunia menggunakan Python
+### Analisis dan Visualisasi Data Kebahagiaan Dunia menggunakan Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Library-150458?logo=pandas&logoColor=white)
@@ -13,19 +13,29 @@
 
 | No | Nama | NIM | Tugas |
 |----|------|-----|-------|
-| 1 | Faisal Al Hafiz Siregar | 21060125130071 | Soal E + Koordinasi Infografis & PPT |
+| 1 | Faisal Al Hafiz Siregar | 21060125130071 | Soal E + Koordinasi Infografis & PDF Slider |
 | 2 | Nabila Nur Fitri Arifin | 21060125140164 | Soal C (Korelasi) |
 | 3 | Nisrina Najwa Luthfiyyah | 21060125130118 | Soal D (Distribusi) |
-| 4 | Timoty Turnip | 21060125130125 | Soal B (Tren/Filter) + Kelola GitHub |
+| 4 | Timoty Turnip | 21060125130125 | Soal B (Tren/Filter) + Pengelolaan GitHub |
 | 5 | Vimoty Turnip | 21060125140137 | Soal A (Agregasi) |
 
 ---
+
 ## 🖼️ Infografis
 
 Infografis hasil analisis data kebahagiaan dunia dapat dilihat melalui tautan berikut:
 
 👉 [Klik di sini untuk melihat infografis](https://github.com/omitaja/PostTest_PraktikumAlgoritmaPemrogramman_Kelompok_1_Kelas_D/blob/main/Infografis_PostTest_Praktikum_Algoritma_Pemrogramman.png)
 
+---
+
+## 📑 PDF Slider
+
+Dokumen PDF slider yang memuat hasil analisis dan visualisasi data dapat diakses melalui tautan berikut:
+
+👉 [Klik di sini untuk melihat PDF Slider](Analisis%20Kebahagiaan%20Dunia%20Berdasarkan%20Kepuasan%20Hidup%2C%20GDP%2C%20dan%20Ketimpangan%20Pendapatan.pdf)
+
+---
 
 ## 📋 Pembagian Tugas Detail
 
@@ -33,39 +43,39 @@ Infografis hasil analisis data kebahagiaan dunia dapat dilihat melalui tautan be
 <summary>🔵 <b>Vimo — Soal A (Kategori Agregasi)</b></summary>
 
 ### Pengolahan Data
-- Menghitung rata-rata kepuasan hidup (`adjusted_satisfaction`, skala 0–100) berdasarkan wilayah regional (`Region`)
-- Visualisasi menggunakan **Horizontal Bar Chart** dengan pendekatan `ax=axes[0, 0]`
+- Menghitung nilai rata-rata `adjusted_satisfaction` (skala 0–100) berdasarkan `Region`
+- Menampilkan hasil dalam bentuk **horizontal bar chart** menggunakan pendekatan `ax=axes[0, 0]`
 
 ### Infografis
-- Membuat desain layout infografis Grafik A
-- Menyusun insight/kesimpulan singkat hasil analisis agregasi
+- Menyusun desain layout untuk bagian infografis Grafik A
+- Menuliskan insight atau kesimpulan singkat dari hasil analisis agregasi
 
-### PPT
-- Membuat slide presentasi bagian analisis Grafik A
+### PDF Slider
+- Menyusun halaman PDF slider untuk pembahasan Grafik A
 
 </details>
 
 ---
 
 <details>
-<summary>🟠 <b>Timo — Soal B (Kategori Tren/Filter) + Kelola GitHub</b></summary>
+<summary>🟠 <b>Timo — Soal B (Kategori Tren/Filter) + Pengelolaan GitHub</b></summary>
 
 ### Pengolahan Data
-- Menemukan negara di wilayah **Sub-Saharan Africa** yang memiliki skor kepuasan di atas nilai median wilayah tersebut
-- Visualisasi menggunakan **Bar Chart** dengan pendekatan `ax=axes[0, 1]`
+- Mengidentifikasi negara-negara di wilayah **Sub-Saharan Africa** yang memiliki skor kepuasan hidup di atas median wilayah
+- Menampilkan hasil dalam bentuk **bar chart** menggunakan pendekatan `ax=axes[0, 1]`
 
 ### Infografis
-- Membuat desain layout infografis Grafik B
-- Menyusun insight/kesimpulan singkat hasil analisis tren/filter
+- Menyusun tampilan infografis untuk Grafik B
+- Menuliskan insight singkat dari hasil analisis tren/filter
 
-### PPT
-- Membuat slide presentasi bagian analisis Grafik B
+### PDF Slider
+- Menyusun halaman PDF slider untuk pembahasan Grafik B
 
-### GitHub (Kelola Repository)
+### GitHub
 - Membuat dan mengelola repository kelompok
-- Meng-upload source code `.ipynb`, dataset, dan file pendukung
-- Memastikan struktur repository rapi dan lengkap
-- Mencantumkan rincian jobdesk seluruh anggota
+- Mengunggah file `.ipynb`, dataset, serta file pendukung lainnya
+- Menjaga struktur repository tetap rapi dan mudah dipahami
+- Menuliskan pembagian tugas seluruh anggota di dalam repository
 
 </details>
 
@@ -75,15 +85,15 @@ Infografis hasil analisis data kebahagiaan dunia dapat dilihat melalui tautan be
 <summary>🩷 <b>Nabila — Soal C (Kategori Korelasi)</b></summary>
 
 ### Pengolahan Data
-- Menganalisis hubungan korelasi antara skor kebahagiaan (**Happy Score**, skala 0–10) dengan tingkat **GDP** negara
-- Visualisasi menggunakan **Scatter Plot** dengan pendekatan `ax=axes[1, 0]`
+- Menganalisis hubungan antara **Happy Score** (skala 0–10) dan **GDP**
+- Menampilkan visualisasi dalam bentuk **scatter plot** menggunakan pendekatan `ax=axes[1, 0]`
 
 ### Infografis
-- Membuat desain layout infografis Grafik C
-- Menyusun insight/kesimpulan singkat hasil analisis korelasi
+- Menyusun desain infografis untuk Grafik C
+- Menuliskan insight singkat dari hasil analisis korelasi
 
-### PPT
-- Membuat slide presentasi bagian analisis Grafik C
+### PDF Slider
+- Menyusun halaman PDF slider untuk pembahasan Grafik C
 
 </details>
 
@@ -93,32 +103,33 @@ Infografis hasil analisis data kebahagiaan dunia dapat dilihat melalui tautan be
 <summary>🟡 <b>Nisrina — Soal D (Kategori Distribusi)</b></summary>
 
 ### Pengolahan Data
-- Mencari sebaran dan pencilan pada kolom ketimpangan pendapatan (`income_inequality`)
-- Visualisasi menggunakan **Boxplot** dengan pendekatan `ax=axes[1, 1]`
+- Menganalisis persebaran data dan outlier pada kolom `income_inequality`
+- Menampilkan hasil dalam bentuk **boxplot** menggunakan pendekatan `ax=axes[1, 1]`
 
 ### Infografis
-- Membuat desain layout infografis Grafik D
-- Menyusun insight/kesimpulan singkat hasil analisis distribusi
+- Menyusun desain infografis untuk Grafik D
+- Menuliskan insight singkat dari hasil analisis distribusi
 
-### PPT
-- Membuat slide presentasi bagian analisis Grafik D
+### PDF Slider
+- Menyusun halaman PDF slider untuk pembahasan Grafik D
 
 </details>
 
 ---
 
 <details>
-<summary>🟢 <b>Faisal — Soal E (Grafik Gabungan) + Koordinasi Infografis & PPT</b></summary>
+<summary>🟢 <b>Faisal — Soal E (Grafik Gabungan) + Koordinasi Infografis & PDF Slider</b></summary>
 
 ### Pengolahan Data
-- Menggabungkan Grafik A, B, C, dan D ke dalam satu layout grid **2×2** menggunakan `plt.subplots(2, 2, figsize=(...))`
-- Menggunakan pendekatan `ax=axes[x, y]` agar grafik individu dapat digabungkan tanpa menulis ulang logika data
+- Menggabungkan Grafik A, B, C, dan D dalam satu tampilan **grid 2×2** menggunakan `plt.subplots(2, 2, figsize=(...))`
+- Menggunakan pendekatan `ax=axes[x, y]` agar seluruh grafik dapat digabungkan tanpa menulis ulang proses analisis masing-masing
 
 ### Infografis
-- Mengintegrasikan desain infografis Grafik A–D dari seluruh anggota menjadi satu **infografis utuh** yang estetis dan profesional
+- Menggabungkan desain infografis dari Grafik A–D menjadi satu infografis utuh yang lebih menarik, rapi, dan profesional
 
-### PPT
-- Membuat slide cover, intro kelompok, dan slide penutup/kesimpulan keseluruhan
+### PDF Slider
+- Menyusun bagian pembuka, identitas kelompok, dan penutup/kesimpulan keseluruhan dalam PDF slider
+- Mengoordinasikan penyusunan akhir PDF slider agar isi dan tampilannya konsisten
 
 </details>
 
@@ -126,58 +137,18 @@ Infografis hasil analisis data kebahagiaan dunia dapat dilihat melalui tautan be
 
 ## 🤝 Tugas Bersama (Semua Anggota)
 
-- [ ] Publikasi infografis ke **Instagram Story** (rasio 9:16) masing-masing akun dengan tag/mention pihak terkait
-- [ ] Publikasi ke **LinkedIn** (rasio 1:1 / 4:5 atau format PDF Slider) masing-masing akun dengan tag/mention pihak terkait
+- [ ] Mengunggah infografis ke **Instagram Story** dengan rasio 9:16 pada akun masing-masing serta melakukan tag/mention pihak terkait
+- [ ] Mengunggah hasil ke **LinkedIn** dalam format yang sesuai, seperti rasio 1:1, 4:5, atau **PDF Slider**, pada akun masing-masing serta melakukan tag/mention pihak terkait
 - [ ] Mengisi formulir absensi yang telah disediakan
 
 ---
 
 ## 🗂️ Struktur Repository
 
-```
-📁 repository/
-├── 📄 README.md
-├── 📄 dataset.csv
-├── 📓 posttest_kelompok1.ipynb
-├── 📄 PPT/
-└── 📄 Infografis/
-```
-
----
-
-## ⚙️ Library yang Digunakan
-
-```python
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-```
-
----
-
-## 📌 Ketentuan Teknis
-
-| Ketentuan | Detail |
-|-----------|--------|
-| Format file | `.ipynb` (Jupyter Notebook) |
-| Pendekatan visualisasi | `ax=axes[x, y]` (object-oriented) |
-| Insight | Wajib disertakan pada setiap grafik |
-| Standar visualisasi | Tidak boleh menampilkan grafik mentah tanpa analisis |
-
----
-
-## 📈 Ringkasan Analisis
-
-| Soal | Kategori | Jenis Grafik | Variabel Utama |
-|------|----------|--------------|----------------|
-| A | Agregasi | Horizontal Bar Chart | `adjusted_satisfaction` per `Region` |
-| B | Tren/Filter | Bar Chart | Negara Sub-Saharan Africa di atas median |
-| C | Korelasi | Scatter Plot | `Happy Score` vs `GDP` |
-| D | Distribusi | Boxplot | `income_inequality` |
-| E | Gabungan | Grid 2×2 | Semua grafik A–D |
-
----
-
-<p align="center">
-  <i>Praktikum Algoritma Pemrograman 2026 — Kelompok 1</i>
-</p>
+```bash
+repository/
+├── README.md
+├── dataset.csv
+├── posttest_kelompok1.ipynb
+├── Infografis_PostTest_Praktikum_Algoritma_Pemrogramman.png
+└── Analisis Kebahagiaan Dunia Berdasarkan Kepuasan Hidup, GDP, dan Ketimpangan Pendapatan.pdf
